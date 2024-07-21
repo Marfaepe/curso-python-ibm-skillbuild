@@ -1,3 +1,0 @@
-lista = [10,20,30,40,50]
-primer_elemento = lista[0]
-print('Mi primer elemento;  ')
